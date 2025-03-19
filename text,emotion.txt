@@ -1,0 +1,144 @@
+text,emotion
+"I am so happy today!",happy
+"This is the best day of my life.",happy
+"I feel joyful and content.",happy
+"I am over the moon with joy.",happy
+"Everything is going great!",happy
+"I am thrilled with the results.",happy
+"Today is a wonderful day.",happy
+"I am so grateful for everything.",happy
+"I feel like I'm on top of the world.",happy
+"This is pure happiness.",happy
+"I can't stop smiling.",happy
+"I am so excited about this!",happy
+"Life is beautiful.",happy
+"I am feeling fantastic!",happy
+"This is amazing!",happy
+"I am so lucky.",happy
+"I am in a great mood.",happy
+"I feel so blessed.",happy
+"This is the happiest moment of my life.",happy
+"I am so pleased with how things turned out.",happy
+"I am so proud of myself.",happy
+"I feel so alive!",happy
+"This is a dream come true.",happy
+"I am so satisfied with everything.",happy
+"I feel so positive.",happy
+"I am so cheerful today.",happy
+"I am so delighted.",happy
+"I feel so optimistic.",happy
+"I am so glad this happened.",happy
+"I am so happy I could cry.",happy
+"I am feeling really sad right now.",sad
+"This is the worst day ever.",sad
+"I feel so lonely and depressed.",sad
+"I am heartbroken.",sad
+"Nothing seems to make me happy.",sad
+"I feel so empty inside.",sad
+"I am so disappointed.",sad
+"I feel like crying.",sad
+"This is so heartbreaking.",sad
+"I am so upset.",sad
+"I feel so down.",sad
+"I am so miserable.",sad
+"I feel so hopeless.",sad
+"I am so sad I can't even explain.",sad
+"I feel so alone.",sad
+"I am so devastated.",sad
+"I feel so unloved.",sad
+"I am so unhappy.",sad
+"I feel so broken.",sad
+"I am so tired of feeling this way.",sad
+"I feel so lost.",sad
+"I am so overwhelmed with sadness.",sad
+"I feel so defeated.",sad
+"I am so hurt.",sad
+"I feel so abandoned.",sad
+"I am so sad I can't function.",sad
+"I feel so worthless.",sad
+"I am so sad I can't stop crying.",sad
+"I am so angry about this situation.",angry
+"This makes me furious!",angry
+"I can't believe how mad I am right now.",angry
+"I am boiling with rage.",angry
+"This is so frustrating!",angry
+"I am so annoyed.",angry
+"I am so irritated.",angry
+"I am so fed up with this.",angry
+"I am so angry I could scream.",angry
+"I am so mad right now.",angry
+"I am so angry I can't think straight.",angry
+"I am so angry I feel like breaking something.",angry
+"I am so angry I can't even speak.",angry
+"I am so angry I feel like exploding.",angry
+"I am so angry I can't calm down.",angry
+"I am so angry I feel like punching a wall.",angry
+"I am so angry I can't believe this is happening.",angry
+"I am so angry I feel like I'm losing control.",angry
+"I am so angry I feel like I'm going to burst.",angry
+"I am so angry I feel like I'm going to lose it.",angry
+"I am so angry I feel like I'm going to scream.",angry
+"I am so angry I feel like I'm going to explode.",angry
+"I am so angry I feel like I'm going to lose my mind.",angry
+"I am so angry I feel like I'm going to lose my temper.",angry
+"I am so angry I feel like I'm going to lose my cool.",angry
+"I am so angry I feel like I'm going to lose my patience.",angry
+"I don't feel anything special.",neutral
+"It's just a regular day.",neutral
+"Nothing exciting is happening.",neutral
+"I am feeling okay, nothing special.",neutral
+"Today is just another day.",neutral
+"I am feeling indifferent.",neutral
+"I am feeling neutral about this.",neutral
+"I am feeling neither happy nor sad.",neutral
+"I am feeling so-so.",neutral
+"I am feeling average.",neutral
+"I am feeling normal.",neutral
+"I am feeling ordinary.",neutral
+"I am feeling plain.",neutral
+"I am feeling unremarkable.",neutral
+"I am feeling unexceptional.",neutral
+"I am feeling unexciting.",neutral
+"I am feeling uninspired.",neutral
+"I am feeling unimpressed.",neutral
+"I am feeling unenthusiastic.",neutral
+"I am feeling unemotional.",neutral
+"I am feeling unresponsive.",neutral
+"I am feeling unexcited.",neutral
+"I am feeling unamused.",neutral
+"I am feeling uninterested.",neutral
+"I am feeling unbothered.",neutral
+"I am feeling unperturbed.",neutral
+"I am feeling unruffled.",neutral
+"I am feeling unflustered.",neutral
+"I am feeling unshaken.",neutral
+"I was completely surprised by the news!",surprise
+"This came as a total shock to me.",surprise
+"I am amazed by what just happened.",surprise
+"I can't believe my eyes!",surprise
+"This is so unexpected!",surprise
+"I am so surprised!",surprise
+"I am so shocked!",surprise
+"I am so stunned!",surprise
+"I am so taken aback!",surprise
+"I am so astonished!",surprise
+"I am so flabbergasted!",surprise
+"I am so dumbfounded!",surprise
+"I am so speechless!",surprise
+"I am so bewildered!",surprise
+"I am so startled!",surprise
+"I am so caught off guard!",surprise
+"I am so blown away!",surprise
+"I am so overwhelmed!",surprise
+"I am so awestruck!",surprise
+"I am so thunderstruck!",surprise
+"I am so gobsmacked!",surprise
+"I am so flummoxed!",surprise
+"I am so discombobulated!",surprise
+"I am so nonplussed!",surprise
+"I am so bowled over!",surprise
+"I am so knocked for six!",surprise
+"I am so staggered!",surprise
+"I am so dumbstruck!",surprise
+"I am so agog!",surprise
+"I am so open-mouthed!",surprise
